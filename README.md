@@ -1,17 +1,17 @@
 ### Hi there 👋
 Hey! I am Deepak Kumar I am pursuing my engineering in Electronics and Communication from University School of Information, Communication and Technology,GGSIPU.
 ### Language &tools
-🌱C++
-🌱Python
-🌱HTML
-🌱CSS
-🌱Javascript
-🌱 I’m currently learning Backend
+\🌱C++
+\🌱Python
+\🌱HTML
+\🌱CSS
+\🌱Javascript
+\🌱 I’m currently learning Backend
 
 ### 📫 How to reach me:
-✨[Linkedin](https://www.linkedin.com/in/deepak-kumar-586198191/)
-✨[Twitter](https://twitter.com/deepakjnv9555)
-✨[Instagram](https://www.instagram.com/deepakkumar9555/)
+\✨[Linkedin](https://www.linkedin.com/in/deepak-kumar-586198191/)
+\✨[Twitter](https://twitter.com/deepakjnv9555)
+\✨[Instagram](https://www.instagram.com/deepakkumar9555/)
 
 ![-](https://github.com/deepakkumar9555/https---github.com-deepakkumar9555-GITHUB/blob/master/code1.gif)
 ### bye....
