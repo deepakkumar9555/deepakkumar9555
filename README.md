@@ -21,7 +21,7 @@ from University School of Information, Communication and Technology,GGSIPU.
 
 ✨[Instagram](https://www.instagram.com/deepakkumar9555/)
 
-![-](https://github.com/deepakkumar9555/https---github.com-deepakkumar9555-GITHUB/blob/master/code1.gif)
+![-](https://github.com/deepakkumar9555/https---github.com-deepakkumar9555-GITHUB/blob/master/code1.gif=250x250)
 ### bye....
 
 <!--
